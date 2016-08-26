@@ -1,0 +1,13 @@
+---
+layout: default
+title : SQUARZ
+modal-id: 1
+date: 2016-08-26
+img: squarz.png
+alt: image-alt
+project-date: August 2016
+client: Indie
+category: Indie Game Development
+description: My first published game, and by published I mean I uploaded it to Google Play. A personal project made in Unity2D, with design by <a href="https://www.behance.net/yhello"> Hugo Carrapatoso Silva</a>.
+
+---
